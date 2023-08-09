@@ -20,7 +20,8 @@ else if (flag == 0)
 flag = 1;
 w++;
 }
-}return (w);
+}
+return (w);
 }
 /**
 * **strtow - splits a string into words
